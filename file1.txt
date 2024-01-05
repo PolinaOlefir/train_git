@@ -1,0 +1,2 @@
+A window function makes a calculation across multiple rows that are related to the current row. 
+For example, a window function allows you to calculate.S
